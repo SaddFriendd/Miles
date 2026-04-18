@@ -1,6 +1,8 @@
 # Miles
 Miles is an Ai Powered Free-To-Use ChatBot 
 
+Press "." / Period Key in game to open chat menu!!
+
 Youtube - https://youtu.be/7tHGbMfasHg?si=pJdJuIWQFxnSooT8
 
 Join Our Communituy!
