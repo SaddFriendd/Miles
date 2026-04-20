@@ -5,7 +5,7 @@ Supported Version - 1.21+
 
 Press Right Shift Key in game to open chat menu!!
 
-Youtube - https://youtu.be/7tHGbMfasHg?si=pJdJuIWQFxnSooT8
+Youtube - https://youtu.be/qw5gkTrURbI
 
 Join Our Communituy!
 
